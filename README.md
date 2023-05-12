@@ -10,12 +10,6 @@ Shoes app made with Vue, Vuex and Nuxt.  This app is an emulation of an online s
 
 ## Installation
 
-Clone the repository:
-
-```bash
-https://github.com/MoiOcanas/vuex-sneaker-shop.git
-```
-
 Run: 
 
 ```bash
